@@ -1,0 +1,2 @@
+﻿date;commune;province;cercle;score;niveau;tmax;precip;wind;humidity;uv;pop_vulnerable;population;timestamp;source
+2026-03-15;Test;Béni Mellal;Test;45.0;ORANGE;38;5;20;40;8;1200;5000;2026-03-15T10:23:25.755100;test
